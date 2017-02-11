@@ -1,0 +1,20 @@
+{
+  "name": "doctor",
+  "version": "1.0.0",
+  "description": "\"doctor bot\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "telegram"
+  ],
+  "author": "muthu",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0"
+  }
+}
